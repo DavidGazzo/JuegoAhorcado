@@ -1,9 +1,0 @@
-- Mostrar palabra cuando no se descubrió
-- Niveles de dificultad (palabras más cortas nivel incial, palabras mas largas nivel avanzado)
-
-
-
-Juegos para hacer
-Memotest
-SUDOKU
-SIMON
